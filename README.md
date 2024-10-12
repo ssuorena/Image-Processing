@@ -15,16 +15,10 @@ This repository contains various image processing projects leveraging Convolutio
 
 ## 🛠️ Installation
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
    git clone https://github.com/ssuorena/Image-Processing.git
-   ```
-
-2. Install dependencies (if applicable) by running:
-
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## 📊 Notebooks Overview
